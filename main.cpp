@@ -12,7 +12,7 @@ int main()
     int i, j, l; // i and J for two loops and l is to store strings length
     char s[10];
 
-    cout << "Enter String of Binary Digits:";
+    cout << "Enter String of Binary Digits (Max Length 10):";
 
     cin >> s; //Input the string
 
@@ -44,7 +44,14 @@ int main()
         {
 
 
-            if (s[j] == '1' && s[j+1] == '0') // Will look if there is any 0's after 1, as 0101 or 001110 type strings are not accepted
+            if(s[j] != '1' && s[j] != '0') // No input but 0's or 1's will be accepted
+            {
+                cout << "Please, use only 0's and 1's as input!\n";
+                return 0;
+            }
+
+
+            else   if (s[j] == '1' && s[j+1] == '0') // Will look if there is any 0's after 1, as 0101 or 001110 type strings are not accepted
             {
                 cout << "0's after 1 is not allowed!\n";
                 return 0;

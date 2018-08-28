@@ -23,3 +23,18 @@
 	<iostream>
 	"stacktype.h"
 
+1534662181 source:h:\nsu\cse\cse273 (sfm1)\pda stack c++\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1534661489 h:\nsu\cse\cse273 (sfm1)\pda stack c++\stacktype.h
+
+1535498378 source:h:\nsu\cse\cse273 (sfm1)\pda stack c++\main.cpp
+	"stacktype.cpp"
+	<iostream>
+	<string.h>
+
+1534662181 h:\nsu\cse\cse273 (sfm1)\pda stack c++\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
