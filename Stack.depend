@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1506878188 source:e:\sifat\nsu materials\courses\lecture materials\cse 473\assignments\assignment-pda\stackcode\stack\main.cpp
+	<iostream>
+
+1534662181 source:e:\sifat\nsu materials\courses\lecture materials\cse 473\assignments\assignment-pda\stackcode\stack\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1534661489 e:\sifat\nsu materials\courses\lecture materials\cse 473\assignments\assignment-pda\stackcode\stack\stacktype.h
+
+1534662181 source:h:\nsu\cse\cse273 (sfm1)\stack\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1534661489 h:\nsu\cse\cse273 (sfm1)\stack\stacktype.h
+
+1535408167 source:h:\nsu\cse\cse273 (sfm1)\stack\main.cpp
+	"stacktype.cpp"
+	<iostream>
+	<string.h>
+
+1534662181 h:\nsu\cse\cse273 (sfm1)\stack\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
